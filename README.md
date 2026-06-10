@@ -31,7 +31,7 @@ A production-ready REST API with JWT authentication, role-based access control, 
 
 <br/><br/>
 
-<img src="./screenshots/tasks.png" width="45%" />
+<img src="./screenshots/Tasks.png" width="45%" />
 <img src="./screenshots/Features.png" width="45%" />
 
 </div>
